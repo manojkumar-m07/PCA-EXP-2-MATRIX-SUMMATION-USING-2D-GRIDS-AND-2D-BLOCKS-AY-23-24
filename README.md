@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:<h3>
+<h3>AIM:<h3> To perform matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
 <h3>ENTER YOUR NAME</h3> Manojkumar M
 <h3>ENTER YOUR REGISTER NO</h3> 212225040226
 <h3>EX. NO</h3> 2
